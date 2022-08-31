@@ -157,6 +157,37 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
     4. push code to github
 
 26. Update User Profile
+
     1. create profile screen
     2. show user info
     3. handle update user info
+
+27. List Orders For Admin
+
+    1. create orders page
+    2. create orders api
+    3. use api in page
+
+28. Deliver Order For Admin
+
+    1. create deliver api
+    2. add deliver button
+    3. implement click handler
+
+29. List Products For Admin
+
+    1. create products page
+    2. create products api
+    3. use api in page
+
+30. Create Product Edit Page
+
+    1. create edit page
+    2. create api for product
+    3. show product data in form
+
+31. Upload Product Image
+    1. create cloudinary account
+    2. get cloudinary keys
+    3. create upload api
+    4. upload files in edit page
